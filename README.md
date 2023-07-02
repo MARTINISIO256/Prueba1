@@ -1,2 +1,1 @@
-# Prueba1
-Para Pura Practica
+Es aprendizaje Puro
